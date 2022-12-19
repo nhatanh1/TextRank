@@ -9,7 +9,7 @@ namespace PhpScience\TextRank\Tool\StopWords;
  *
  * @package PhpScience\TextRank\Tool\StopWords
  */
-class Dutch extends StopWordsAbstract
+class Vietnamese extends StopWordsAbstract
 {
     /**
      * Stop words for avoid dummy keywords for Language Dutch.
